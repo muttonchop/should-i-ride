@@ -1,3 +1,10 @@
+# Live view of web components
+[Github pages view](https://muttonchop.github.io/should-i-ride/)
+
+
+
+
+
 # should-i-ride
 Motorcycles are a great multi-purpose vehicle. However, there are some worthwhile criticisms when considerating to free yourself from your cage. We try to address them.
 
